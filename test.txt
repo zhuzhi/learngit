@@ -2,3 +2,4 @@ Test commands:
     1. git rm filename
     2. git checkout -- filename
     3. git reset HEAD -- filename
+test color.ui
